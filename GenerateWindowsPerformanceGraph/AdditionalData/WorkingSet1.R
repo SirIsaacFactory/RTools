@@ -1,7 +1,7 @@
 ################################################################################
-# This software is released under the MIT License see LICENSE.txt
+# This software is released under the MIT License; see LICENSE.txt
 # Filename : WorkingSet1.R
-# Overview : Make a graph of a windows performance log of specified process's
+# Overview : Make a graph of a Windows performance log of specified processes'
 #            Working Set
 # HowToUse : rscript WorkingSet1.R WindowsPerformanceLog.csv ProcessName
 # 

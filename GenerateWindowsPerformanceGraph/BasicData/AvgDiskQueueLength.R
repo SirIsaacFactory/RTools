@@ -1,7 +1,7 @@
 ################################################################################
-# This software is released under the MIT License see LICENSE.txt
+# This software is released under the MIT License; see LICENSE.txt
 # Filename : AvailableMegabyes.R
-# Overview : Make a graph of a windows performance log of LogicalDisk
+# Overview : Make a graph of a Windows performance log of LogicalDisk
 #            Avg Disk Queue Length
 # HowToUse : rscript AvailableMegabytes.R WindowsPerformanceLog.csv
 # 

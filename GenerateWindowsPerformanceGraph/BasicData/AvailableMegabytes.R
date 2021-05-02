@@ -1,7 +1,7 @@
 ################################################################################
-# This software is released under the MIT License see LICENSE.txt
+# This software is released under the MIT License; see LICENSE.txt
 # Filename : AvailableMegabytes.R
-# Overview : Make a graph of a windows performance log of Available MBytes
+# Overview : Make a graph of a Windows performance log of Available MBytes
 # HowToUse : rscript AvailableMegabytes.R WindowsPerformanceLog.csv
 # 
 #-------------------------------------------------------------------------------

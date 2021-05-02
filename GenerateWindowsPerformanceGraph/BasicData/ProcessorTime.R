@@ -1,7 +1,7 @@
 ################################################################################
-# This software is released under the MIT License see LICENSE.txt
+# This software is released under the MIT License; see LICENSE.txt
 # Filename : ProcessorTime.R
-# Overview : Make a graph of a windows performance log of Total Processor Time
+# Overview : Make a graph of a Windows performance log of Total Processor Time
 # HowToUse : rscript ProcessorTime.R WindowsPerformanceLog.csv
 # 
 #-------------------------------------------------------------------------------
